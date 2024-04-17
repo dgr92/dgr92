@@ -9,36 +9,52 @@
 
 <br> 
 
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
-
-- **Languages**:
+<div>
+  <kbd align="center" >
+    <kbd>Languages:</kbd>
+    <br>
+    <br>
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+  </kbd>
   
-     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- **Back-End Development**:
-
-    ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <kbd align="center">
+    <kbd>Front-End Development:</kbd>
+    <br>
+    <br>
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+    <img style="height:50px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  </kbd>
+  
+  <kbd align="center">
+    <kbd>Back-End Development:</kbd>
+    <br>
+    <br>
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
+  </kbd>
+  
+  <kbd align="center">
+    <kbd>Softwares and Tools:</kbd>
+    <br>
+    <br>
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+    <img style="height:50px" src="https://assets-global.website-files.com/61d1b6e84887f53fef1dcdf2/631b45e07d98cfb364e5951f_github-white.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+  </kbd>
+</div
+  
+<br>
 <br>
 
-<br>
 
 # 📈 My Github stats
 
@@ -48,7 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgr92&layout=compact&theme=gotham)](https://github.com/dgr92/github-readme-stats)
 
 <br>
-
 
 
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -74,6 +89,7 @@
 </li>
 </ul>
 
+<br>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=dgr92&style=for-the-badge"> <!-- &abbreviated=true -->
