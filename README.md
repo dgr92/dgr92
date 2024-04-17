@@ -1,16 +1,19 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am dgr92 😃 
-
 <br>
 
-- 💻 A Web Developer.
-- 🔎 Searching for my first job opportunity.</a>
-- 🌱 Currently learning Python, Typescript and OOP.
-- 🧐 Visit my portfolio: <a href="https://dgr92.vercel.app">https://dgr92.vercel.app</a>
+<ul>
+  <li>💻 A Web Developer.</li>
+  <li>🔎 Searching for my first job opportunity.</a></li>
+  <li>🌱 Currently learning Python, Typescript and OOP.</li>
+  <li>🧐 Visit my portfolio: <a href="https://dgr92.vercel.app">https://dgr92.vercel.app</a></li>
+</ul>
 
 <br> 
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
+<br>
+
 <div>
   <kbd align="center" >
     <kbd>Languages:</kbd>
@@ -53,14 +56,13 @@
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
   </kbd>
-</div
+</div>
   
 <br>
 <br>
 
 
 # 📈 My Github stats
-
 <br>
 
 ![dgr92's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgr92&hide=issues&show_icons=true&theme=gotham)
@@ -69,33 +71,24 @@
 <br>
 
 
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
+# <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/david-gr/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  dgr92-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <a href="https://www.linkedin.com/in/david-gr/">
+    <img src="https://img.shields.io/badge/linkedin:  dgr92-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+  
+  <br>
+  
+  <a href="mailto:davidgreq92@gmail.com">
+    <img src="https://img.shields.io/badge/gmail:  dgr92-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <br>
-
-<li>
-<a href="mailto:davidgreq92@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dgr92-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
-
 <br>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=dgr92&style=for-the-badge"> <!-- &abbreviated=true -->
+  <img src="https://komarev.com/ghpvc/?username=dgr92&style=for-the-badge&abbreviated=true">
 </p>
-
-</div>
