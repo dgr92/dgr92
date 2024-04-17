@@ -1,4 +1,4 @@
-# Hello :wave:, I am dgr92 😃 
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am dgr92 😃 
 
 <br>
 
@@ -16,8 +16,6 @@
      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
      ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
     
 - **Front-End Development**:
 
@@ -26,16 +24,12 @@
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
-
 - **Back-End Development**:
 
     ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     
-<br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -52,8 +46,6 @@
 
 ![dgr92's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgr92&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgr92&layout=compact&theme=gotham)](https://github.com/dgr92/github-readme-stats)
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 <br>
 
