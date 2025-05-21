@@ -22,7 +22,6 @@
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
     <img style="height:50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-    <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
   </kbd>
 
   <br>
