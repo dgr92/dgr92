@@ -44,10 +44,12 @@
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-    <img style="height:50px" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png">
     <img style="height:50px" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
   </kbd>
 
+  <br>
+  <br>
+  
   <kbd align="center">
     <kbd>Softwares and Tools:</kbd>
     <br>
