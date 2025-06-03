@@ -4,7 +4,7 @@
 <ul>
   <li>💻 Web Developer.</li>
   <li>🔎 Searching for my first job opportunity.</a></li>
-  <li>🌱 Currently learning Python, Typescript and OOP.</li>
+  <li>🌱 Currently learning Java and OOP.</li>
   <li>🧐 Visit my portfolio: <a href="https://dgr92.vercel.app">https://dgr92.vercel.app</a></li>
 </ul>
 
